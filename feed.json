@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "TBD",
+    "title": "The Road Ahead",
     "description": "",
     "home_page_url": "https://kkember.github.io",
     "feed_url": "https://kkember.github.io/feed.json",
@@ -9,6 +9,20 @@
         "name": "Ken Kember"
     },
     "items": [
+        {
+            "id": "https://kkember.github.io/battle-island-2021.html",
+            "url": "https://kkember.github.io/battle-island-2021.html",
+            "title": "Battle Island 2021",
+            "summary": "In July of 2021 we spent a few days on Battle Island with family and friends. Amidst all the pandemic restrictions it was wonderful to be outdoors and spending time together in a beautiful spot. Amy and I left Ottawa on Sunday morning and made&hellip;",
+            "content_html": "<p>In July of 2021 we spent a few days on Battle Island with family and friends.  Amidst all the pandemic restrictions it was wonderful to be outdoors and spending time together in a beautiful spot.</p>\n<p>Amy and I left Ottawa on Sunday morning and made it to Sault Ste Marie by 6:30pm.  The next day we drove along the north shore of Lake Superior, enjoying the magnificant views.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://kkember.github.io/media/posts/2/72FB32C4-2615-40E1-AA4E-77EEDA4F8CF1.jpg\" sizes=\"100vw\" srcset=\"https://kkember.github.io/media/posts/2/responsive/72FB32C4-2615-40E1-AA4E-77EEDA4F8CF1-xs.jpg 300w ,https://kkember.github.io/media/posts/2/responsive/72FB32C4-2615-40E1-AA4E-77EEDA4F8CF1-sm.jpg 480w ,https://kkember.github.io/media/posts/2/responsive/72FB32C4-2615-40E1-AA4E-77EEDA4F8CF1-md.jpg 768w ,https://kkember.github.io/media/posts/2/responsive/72FB32C4-2615-40E1-AA4E-77EEDA4F8CF1-lg.jpg 1024w ,https://kkember.github.io/media/posts/2/responsive/72FB32C4-2615-40E1-AA4E-77EEDA4F8CF1-xl.jpg 1360w ,https://kkember.github.io/media/posts/2/responsive/72FB32C4-2615-40E1-AA4E-77EEDA4F8CF1-2xl.jpg 1600w\"  alt=\"\" width=\"6000\" height=\"4000\"></figure>\n<p>We arrived at Rossport, a tiny village about two hours east of Thunder Bay.  Our accommodations at the Willows Bed and Breakfast were comfortable and cozy.  </p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://kkember.github.io/media/posts/2/IMG_1139.jpg\" sizes=\"100vw\" srcset=\"https://kkember.github.io/media/posts/2/responsive/IMG_1139-xs.jpg 300w ,https://kkember.github.io/media/posts/2/responsive/IMG_1139-sm.jpg 480w ,https://kkember.github.io/media/posts/2/responsive/IMG_1139-md.jpg 768w ,https://kkember.github.io/media/posts/2/responsive/IMG_1139-lg.jpg 1024w ,https://kkember.github.io/media/posts/2/responsive/IMG_1139-xl.jpg 1360w ,https://kkember.github.io/media/posts/2/responsive/IMG_1139-2xl.jpg 1600w\"  alt=\"\" width=\"4032\" height=\"3024\">\n<figcaption >The Willows Bed and Breakfast</figcaption>\n</figure>\n<p> </p>",
+            "author": {
+                "name": "Ken Kember"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-01T09:35:02-04:00",
+            "date_modified": "2022-07-01T09:35:02-04:00"
+        },
         {
             "id": "https://kkember.github.io/test-post.html",
             "url": "https://kkember.github.io/test-post.html",
